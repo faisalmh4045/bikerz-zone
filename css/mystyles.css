@@ -16,3 +16,14 @@ header {
 .bike-color-gray{
     filter: grayscale(100%);
 }
+
+/* latest news section */
+.my-btn-2 {
+    color: #e76f51;
+    background-color: transparent;
+    border: 1px solid #e76f51;
+}
+.my-btn-2:hover {
+    color: white;
+    background-color: #e76f51;
+}
