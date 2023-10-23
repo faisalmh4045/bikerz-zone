@@ -11,3 +11,8 @@ header {
     color: black;
     background-color: #e76f51;
 }
+
+/* featured bikes section */
+.bike-color-gray{
+    filter: grayscale(100%);
+}
