@@ -1,3 +1,8 @@
+/* common styles */
+.light-brown{
+    color: #E76F51;
+}
+
 /* header section styles */
 header {
     background-color: #264653;
@@ -26,4 +31,9 @@ header {
 .my-btn-2:hover {
     color: white;
     background-color: #e76f51;
+}
+
+/* review section styles */
+.clients-name{
+    color: #23A6F0;
 }
