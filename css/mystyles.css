@@ -1,6 +1,6 @@
 /* common styles */
-.light-brown{
-    color: #E76F51;
+.light-brown {
+    color: #e76f51;
 }
 
 /* header section styles */
@@ -18,7 +18,7 @@ header {
 }
 
 /* featured bikes section */
-.bike-color-gray{
+.bike-color-gray {
     filter: grayscale(100%);
 }
 
@@ -34,6 +34,6 @@ header {
 }
 
 /* review section styles */
-.clients-name{
-    color: #23A6F0;
+.clients-name {
+    color: #23a6f0;
 }
