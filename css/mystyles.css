@@ -1,0 +1,13 @@
+/* header section styles */
+header {
+    background-color: #264653;
+}
+.my-btn {
+    color: white;
+    background-color: #e76f51;
+    padding: 10px 50px;
+}
+.my-btn:hover {
+    color: black;
+    background-color: #e76f51;
+}
