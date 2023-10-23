@@ -37,3 +37,8 @@ header {
 .clients-name {
     color: #23a6f0;
 }
+
+/* subscribe section styles */
+.subscribe-bg {
+    background-color: #fceae8;
+}
